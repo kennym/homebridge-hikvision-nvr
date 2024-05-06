@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "HomebridgeHikvisionNVRPlugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
